@@ -96,11 +96,11 @@ data-warehouse-project/
 │   └── Source ERP and CRM datasets
 │
 ├── docs/
-│   ├── etl.drawio
-│   ├── data_architecture.drawio
+│   ├── architecture.png
 │   ├── data_catalog.md
-│   ├── data_flow.drawio
-│   ├── data_models.drawio
+│   ├── data_flow.png
+│   ├── data_model.png
+|   ├── integration_model_silver.png
 │   └── naming-conventions.md
 │
 ├── scripts/
