@@ -100,8 +100,8 @@ data-warehouse-project/
 │   ├── data_catalog.md
 │   ├── data_flow.png
 │   ├── data_model.png
-|   ├── integration_model_silver.png
-│   └── naming-conventions.md
+|   └── integration_model_silver.png
+│   
 │
 ├── scripts/
 │   ├── bronze/
