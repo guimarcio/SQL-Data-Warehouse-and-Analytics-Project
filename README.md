@@ -13,7 +13,7 @@ This project implements a Medallion-style architecture consisting of three proce
 ### Bronze Layer
 
 * Stores source data in its original format.
-* Loads ERP and CRM CSV files into SQL Server without significant transformations.
+* Loads ERP (Enterprise Resource Planning) and CRM (Customer Relationship Management) CSV files into SQL Server without significant transformations.
 * Acts as the system's raw data repository.
 
 ### Silver Layer
