@@ -1,4 +1,7 @@
--- Creating tables in bronze schema using Data Definition Language (DDL)
+/*
+	Creating tables in bronze schema using Data Definition Language (DDL)
+	This script is reponsible for creating the tables where all data will be ingested.
+*/
 
 IF OBJECT_ID ('bronze.crm_cust_info' , 'U') IS NOT NULL 
 	DROP TABLE bronze.crm_cust_info;
